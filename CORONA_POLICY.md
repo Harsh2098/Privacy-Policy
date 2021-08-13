@@ -2,10 +2,10 @@
 
 Thank you for using Corona Calculator
 
-HM Production's CORONA CALCULATOR PRIVACY POLICY
+HM Productions's CORONA CALCULATOR PRIVACY POLICY
 
 HM Production acknowledges and respects the privacy of individuals. This Policy covers the Personal Information that we will not
-disclose your Personal Information when you use the "Corona Calculator" app. “Personal Information” shall mean any information about an
+disclose your Personal Information when you use the "Corona Calculator" app. ï¿½Personal Informationï¿½ shall mean any information about an
 individual who can be identified from that information and/or other information to which HM Production has or is likely have
 access, including without limitation, information such as name, e-mail address and any other personal information.
 

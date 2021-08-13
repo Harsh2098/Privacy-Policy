@@ -2,7 +2,7 @@
 
 Thank you for playing Bingo. Bingo with Temporal Twist
 
-HM Production's AUDIO (MIC) PRIVACY POLICY
+HM Productions's AUDIO (MIC) PRIVACY POLICY
 
 HM Production acknowledges and respects the privacy of individuals. This Policy covers the Personal Information that we will not
 disclose your Personal Information when you use speech to text feature. “Personal Information” shall mean any information about an
